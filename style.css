@@ -129,3 +129,5 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 .crumbs{font-size:15px;color:var(--muted)}
 .crumbs a{color:var(--muted)}
 .related{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}
+.photo{margin:6px 0 10px}
+.photo img{width:100%;height:auto;display:block;border-radius:14px}
