@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sharon-rahamim.pages.dev/sitemap.xml
